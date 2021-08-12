@@ -6,6 +6,25 @@
 
 An Android app that helps to fetch movie data from themoviedb api.
 
+Steps to run the application : 
+1. Install the android studio from  https://developer.android.com/studio/install
+
+2. Clone the project from github 
+        
+        1. Open terminal ( cmd )
+        2. Make a directory where you want to save the project
+        3. cd <dir_name>
+        4.  run the following command 
+            git clone https://github.com/vinaykumar2197/wmovie.git
+
+        5. Once it's done start android studio and open the project with android studio.
+        6. Wait for gradle to finish it's task
+        7. Connect your device with USB ( make sure developer mode is enabled)
+        8. Run the app 
+
+
+
+
 # Architecture Pattern
 
 MVVM
